@@ -26,5 +26,5 @@ A simple YouTube clone application built with React, Material-UI, and RapidAPI. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/Ashitrai06/youtube-clone.git
    cd youtube-clone
